@@ -97,9 +97,11 @@ ImgChkHelper.validImage(printscreen截屏的路径,你截取的局部图片路�
 ```
 不要使用QQ截图，建议使用Photoshop，如果不是那么专业，推荐使用光影魔术手，并另存为质量为100%的图像。
 
-### 演进计划
+### 场景
+foolqq在中国电信、中国联通的省公司、科大国创公司内部都有应用，包括工单自动处理、群里常见问题答复、定时告警推送、日报填写等丰富应用，当然这其中涉及NLP的部分不在本文讨论的范畴。以下是部分案例截图:
 
-v2.0 对window8.1以及以上版本将基于uiautomcation重新实现
+![image](https://github.com/shiyafeng/foolqq/blob/master/pic6.jpg)
+
 
 ### 写在最后
 
